@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Venu 👋
 
-<!--
-**vchrombie/vchrombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin badge](https://img.shields.io/badge/linkedin-tvvr-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tvvr/)
+[![twitter badge](https://img.shields.io/badge/twitter-@vchrombie-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/vchrombie)
+[![blog badge](https://img.shields.io/badge/blog-vchrombie.github.io/blog-1f425f?style=flat-square)](https://vchrombie.github.io/blog)
 
-Here are some ideas to get you started:
 
--->
+
 
 - 🔭 I’m currently working on [GrimoireLab](https://github.com/chaoss/grimoirelab) and it's components.
 - 🌱 I’m currently learning about ETL processes. :inbox_tray::hammer_and_wrench::rocket:
@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his :male_detective:
 - ⚡ Fun fact: Snorlax's typical day consists of nothing more than eating :doughnut: and sleeping :zzz:.
 
+<!--
+**vchrombie/vchrombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+--
